@@ -68,37 +68,24 @@ end
 QBCore.Functions.RemoveJob = RemoveJob
 exports('RemoveJob', RemoveJob)
 
--- Multiple Remove Jobs
-local function RemoveJobs(jobs)
-    local shouldContinue = true
-    local message = "success"
-    local errorItem = nil
-
-    for key, value in pairs(jobs) do
-        if type(key) ~= "string" then
-            message = 'invalid_job_name'
-            shouldContinue = false
-            errorItem = jobs[key]
-            break
-        end
-
-        if not QBCore.Shared.Jobs[key] then
-            message = 'job_not_exists'
-            shouldContinue = false
-            errorItem = jobs[key]
-            break
-        end
-
-        QBCore.Shared.Jobs[key] = nil
+-- Single Update Job
+local function UpdateJob(jobName, job)
+    if type(jobName) ~= "string" then
+        return false, "invalid_job_name"
     end
 
-    if not shouldContinue then return false, message, errorItem end
-    TriggerClientEvent('QBCore:Client:OnSharedUpdateMultiple', -1, 'Jobs', jobs)
+    if not QBCore.Shared.Jobs[jobName] then
+        return false, "job_not_exists"
+    end
+
+    QBCore.Shared.Jobs[jobName] = job
+
+    TriggerClientEvent('QBCore:Client:OnSharedUpdate', -1, 'Jobs', jobName, job)
     TriggerEvent('QBCore:Server:UpdateObject')
-    return true, message, nil
+    return true, "success"
 end
-QBCore.Functions.RemoveJobs = RemoveJobs
-exports('RemoveJobs', RemoveJobs)
+QBCore.Functions.UpdateJob = UpdateJob
+exports('UpdateJob', UpdateJob)
 
 -- Single add item
 local function AddItem(itemName, item)
@@ -170,37 +157,24 @@ end
 QBCore.Functions.RemoveItem = RemoveItem
 exports('RemoveItem', RemoveItem)
 
--- Multiple Remove Items
-local function RemoveItems(items)
-    local shouldContinue = true
-    local message = "success"
-    local errorItem = nil
-
-    for key, value in pairs(items) do
-        if type(key) ~= "string" then
-            message = "invalid_item_name"
-            shouldContinue = false
-            errorItem = items[key]
-            break
-        end
-
-        if not QBCore.Shared.Items[key] then
-            message = "item_not_exists"
-            shouldContinue = false
-            errorItem = items[key]
-            break
-        end
-
-        QBCore.Shared.Items[key] = nil
+-- Single Update Item
+local function UpdateItem(itemName, item)
+    if type(itemName) ~= "string" then
+        return false, "invalid_item_name"
     end
 
-    if not shouldContinue then return false, message, errorItem end
-    TriggerClientEvent('QBCore:Client:OnSharedUpdateMultiple', -1, 'Items', items)
+    if not QBCore.Shared.Items[itemName] then
+        return false, "item_not_exists"
+    end
+
+    QBCore.Shared.Items[itemName] = item
+
+    TriggerClientEvent('QBCore:Client:OnSharedUpdate', -1, 'Items', itemName, item)
     TriggerEvent('QBCore:Server:UpdateObject')
-    return true, message, nil
+    return true, "success"
 end
-QBCore.Functions.RemoveItems = RemoveItems
-exports('RemoveItems', RemoveItems)
+QBCore.Functions.UpdateItem = UpdateItem
+exports('UpdateItem', UpdateItem)
 
 -- Single Add Gang
 local function AddGang(gangName, gang)
@@ -272,37 +246,24 @@ end
 QBCore.Functions.RemoveGang = RemoveGang
 exports('RemoveGang', RemoveGang)
 
--- Multiple Remove Gangs
-local function RemoveGangs(gangs)
-    local shouldContinue = true
-    local message = "success"
-    local errorItem = nil
-
-    for key, value in pairs(gangs) do
-        if type(key) ~= "string" then
-            message = "invalid_gang_name"
-            shouldContinue = false
-            errorItem = gangs[key]
-            break
-        end
-
-        if not QBCore.Shared.Gangs[key] then
-            message = "gang_not_exists"
-            shouldContinue = false
-            errorItem = gangs[key]
-            break
-        end
-
-        QBCore.Shared.Gangs[key] = nil
+-- Single Update Gang
+local function UpdateGang(gangName, gang)
+    if type(gangName) ~= "string" then
+        return false, "invalid_gang_name"
     end
 
-    if not shouldContinue then return false, message, errorItem end
-    TriggerClientEvent('QBCore:Client:OnSharedUpdateMultiple', -1, 'Gangs', gangs)
+    if not QBCore.Shared.Gangs[gangName] then
+        return false, "gang_not_exists"
+    end
+
+    QBCore.Shared.Gangs[gangName] = gang
+
+    TriggerClientEvent('QBCore:Client:OnSharedUpdate', -1, 'Gangs', gangName, gang)
     TriggerEvent('QBCore:Server:UpdateObject')
-    return true, message, nil
+    return true, "success"
 end
-QBCore.Functions.RemoveGangs = RemoveGangs
-exports('RemoveGangs', RemoveGangs)
+QBCore.Functions.UpdateGang = UpdateGang
+exports('UpdateGang', UpdateGang)
 
 local function GetCoreVersion(InvokingResource)
     local resourceVersion = GetResourceMetadata(GetCurrentResourceName(), 'version')
