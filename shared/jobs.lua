@@ -279,4 +279,15 @@ QBShared.Jobs = {
             },
         },
 	},
+    ['vanilla'] = {
+		label = 'Vanilla Unicorn',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Bartender',
+                payment = 50
+            },
+        },
+	},
 }
