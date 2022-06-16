@@ -228,7 +228,7 @@ QBCore.Functions.AddGangs = AddGangs
 exports('AddGangs', AddGangs)
 
 -- Single Remove Gang
-local function RemoveGang(gangName, gang)
+local function RemoveGang(gangName)
     if type(gangName) ~= "string" then
         return false, "invalid_gang_name"
     end
