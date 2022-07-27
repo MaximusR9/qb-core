@@ -10,7 +10,7 @@ QBShared.Vehicles = {
 		['price'] = 24000,
 		['category'] = 'custom',
 		['hash'] = `tltypes`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['ast'] = {
 		['name'] = '2013 Aston Martin Vanquish',
@@ -19,7 +19,7 @@ QBShared.Vehicles = {
 		['price'] = 24000,
 		['category'] = 'custom',
 		['hash'] = `ast`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['amdbx'] = {
 		['name'] = 'Aston Martin DBX Carbon Edition',
@@ -28,7 +28,7 @@ QBShared.Vehicles = {
 		['price'] = 24000,
 		['category'] = 'custom',
 		['hash'] = `amdbx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['aaq4'] = {
 		['name'] = '2017 Audi A4 Quattro ABT',
@@ -37,7 +37,7 @@ QBShared.Vehicles = {
 		['price'] = 24000,
 		['category'] = 'custom',
 		['hash'] = `aaq4`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['q820'] = {
 		['name'] = '2020 Audi Q8 50TDI',
@@ -46,7 +46,7 @@ QBShared.Vehicles = {
 		['price'] = 15000,
 		['category'] = 'custom',
 		['hash'] = `q820`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['r8ppi'] = {
 		['name'] = '2013 Audi R8 V10',
@@ -55,7 +55,7 @@ QBShared.Vehicles = {
 		['price'] = 19000,
 		['category'] = 'custom',
 		['hash'] = `r8ppi`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['r820'] = {
 		['name'] = '2020 Audi R8',
@@ -64,7 +64,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `r820`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rs6'] = {
 		['name'] = '2016 Audi RS6 C7',
@@ -73,7 +73,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `rs6`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rs72020'] = {
 		['name'] = '2020 Audi RS7',
@@ -82,7 +82,7 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'custom',
 		['hash'] = `rs72020`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['sq72016'] = {
 		['name'] = '2016 Audi SQ7',
@@ -91,7 +91,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'custom',
 		['hash'] = `sq72016`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['ttrs'] = {
 		['name'] = '2010 Audi TT RS',
@@ -100,7 +100,7 @@ QBShared.Vehicles = {
 		['price'] = 125000,
 		['category'] = 'custom',
 		['hash'] = `ttrs`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['bbentayga'] = {
 		['name'] = 'Bentley Bentayga',
@@ -109,7 +109,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `bbentayga`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cgts'] = {
 		['name'] = '2020 Bentley Continental GT Convertible',
@@ -118,7 +118,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'custom',
 		['hash'] = `cgts`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['760li04'] = {
 		['name'] = '2004 BMW 760Li Individual (E66/PFL)',
@@ -127,7 +127,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `760li04`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m2'] = {
 		['name'] = '2016 BMW M2',
@@ -136,7 +136,7 @@ QBShared.Vehicles = {
 		['price'] = 12500,
 		['category'] = 'custom',
 		['hash'] = `m2`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m3e36'] = {
 		['name'] = '1997 BMW M3 E36',
@@ -145,7 +145,7 @@ QBShared.Vehicles = {
 		['price'] = 18000,
 		['category'] = 'custom',
 		['hash'] = `m3e36`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m3e92'] = {
 		['name'] = '2008 BMW M3 e92',
@@ -154,7 +154,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `m3e92`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['x6m'] = {
 		['name'] = 'BMW X6M F16',
@@ -163,7 +163,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `x6m`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['x5e53'] = {
 		['name'] = 'BMW X5 E53 2005 Sport Package',
@@ -172,7 +172,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `x5e53`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['i8'] = {
 		['name'] = '2015 BMW i8 (I12)',
@@ -181,7 +181,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `i8`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m3f80'] = {
 		['name'] = '2015 BMW M3 (F80)',
@@ -190,7 +190,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'custom',
 		['hash'] = `m3f80`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['bmci'] = {
 		['name'] = '2018 BMW M5 F90',
@@ -199,7 +199,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `bmci`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m4f82'] = {
 		['name'] = '2015 BMW M4 F82',
@@ -208,7 +208,7 @@ QBShared.Vehicles = {
 		['price'] = 11500,
 		['category'] = 'custom',
 		['hash'] = `m4f82`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['m6f13'] = {
 		['name'] = 'BMW M6 F13 Shadow Line',
@@ -217,7 +217,7 @@ QBShared.Vehicles = {
 		['price'] = 16000,
 		['category'] = 'custom',
 		['hash'] = `m6f13`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['z419'] = {
 		['name'] = '2019 BMW Z4 M40i',
@@ -226,7 +226,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'custom',
 		['hash'] = `z419`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['bolide'] = {
 		['name'] = '2020 Bugatti Bolide',
@@ -235,7 +235,7 @@ QBShared.Vehicles = {
 		['price'] = 12500,
 		['category'] = 'custom',
 		['hash'] = `bolide`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cats'] = {
 		['name'] = '2016 Cadillac ATS-V Coupe',
@@ -244,7 +244,7 @@ QBShared.Vehicles = {
 		['price'] = 7200,
 		['category'] = 'custom',
 		['hash'] = `cats`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cesc21'] = {
 		['name'] = '2021 Cadillac Escalade',
@@ -253,7 +253,7 @@ QBShared.Vehicles = {
 		['price'] = 8000,
 		['category'] = 'custom',
 		['hash'] = `cesc21`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['09tahoe'] = {
 		['name'] = '2009 Chevrolet Tahoe',
@@ -262,7 +262,7 @@ QBShared.Vehicles = {
 		['price'] = 18000,
 		['category'] = 'custom',
 		['hash'] = `09tahoe`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['15tahoe'] = {
 		['name'] = '2015 Chevrolet Tahoe',
@@ -271,7 +271,7 @@ QBShared.Vehicles = {
 		['price'] = 10000,
 		['category'] = 'custom',
 		['hash'] = `15tahoe`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['2020ss'] = {
 		['name'] = '2020 Chevrolet Camaro SS',
@@ -280,7 +280,7 @@ QBShared.Vehicles = {
 		['price'] = 10000,
 		['category'] = 'custom',
 		['hash'] = `2020ss`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['camrs17'] = {
 		['name'] = '2017 Chevrolet Camaro RS',
@@ -289,7 +289,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `camrs17`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['tahoe21'] = {
 		['name'] = '2021 Chevrolet Tahoe RST',
@@ -298,7 +298,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `tahoe21`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['corvettec5z06'] = {
 		['name'] = 'Chevrolet Corvette C5 Z06',
@@ -307,7 +307,7 @@ QBShared.Vehicles = {
 		['price'] = 32000,
 		['category'] = 'custom',
 		['hash'] = `corvettec5z06`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['czr1'] = {
 		['name'] = '2009 Chevrolet Corvette ZR1',
@@ -316,7 +316,7 @@ QBShared.Vehicles = {
 		['price'] = 19000,
 		['category'] = 'custom',
 		['hash'] = `czr1`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['c7'] = {
 		['name'] = '2014 Chevrolet Corvette C7 Stingray',
@@ -325,7 +325,7 @@ QBShared.Vehicles = {
 		['price'] = 29000,
 		['category'] = 'custom',
 		['hash'] = `c7`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['stingray'] = {
 		['name'] = '2020 Chevrolet Corvette C8 Stingray',
@@ -334,7 +334,7 @@ QBShared.Vehicles = {
 		['price'] = 42000,
 		['category'] = 'custom',
 		['hash'] = `stingray`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['16charger'] = {
 		['name'] = '2016 Dodge Charger',
@@ -343,7 +343,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `16charger`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['99viper'] = {
 		['name'] = '1999 Dodge Viper GTS ACR',
@@ -352,7 +352,7 @@ QBShared.Vehicles = {
 		['price'] = 6500,
 		['category'] = 'custom',
 		['hash'] = `99viper`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['chr20'] = {
 		['name'] = 'Dodge Charger Hellcat Widebody 2021',
@@ -361,7 +361,7 @@ QBShared.Vehicles = {
 		['price'] = 13000,
 		['category'] = 'custom',
 		['hash'] = `chr20`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['demon'] = {
 		['name'] = '2018 Dodge Challenger SRT Demon',
@@ -370,7 +370,7 @@ QBShared.Vehicles = {
 		['price'] = 18000,
 		['category'] = 'custom',
 		['hash'] = `demon`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['raid'] = {
 		['name'] = 'Dodge Challenger Raid',
@@ -379,7 +379,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `raid`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['ram2500'] = {
 		['name'] = '2015 Dodge RAM 2500',
@@ -388,7 +388,7 @@ QBShared.Vehicles = {
 		['price'] = 19000,
 		['category'] = 'custom',
 		['hash'] = `ram2500`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['srt4'] = {
 		['name'] = 'Dodge Neon SRT-4',
@@ -397,7 +397,7 @@ QBShared.Vehicles = {
 		['price'] = 15000,
 		['category'] = 'custom',
 		['hash'] = `srt4`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['trx'] = {
 		['name'] = '2017 Dodge RAM 1500 Rebel TRX',
@@ -406,7 +406,7 @@ QBShared.Vehicles = {
 		['price'] = 19500,
 		['category'] = 'custom',
 		['hash'] = `trx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['16challenger'] = {
 		['name'] = '2016 Dodge Challenger',
@@ -415,7 +415,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `16challenger`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cutlass'] = {
 		['name'] = 'Dacia logan pickup ',
@@ -424,7 +424,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `cutlass`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['logan'] = {
 		['name'] = '2008 Dacia Logan',
@@ -433,7 +433,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `logan`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['1310'] = {
 		['name'] = 'Dacia 1310 2001',
@@ -442,7 +442,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `1310`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['sandero'] = {
 		['name'] = 'Dacia Sandero 2014',
@@ -451,7 +451,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `sandero`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['stepway'] = {
 		['name'] = 'Dacia Sandero Stepway 2014',
@@ -460,7 +460,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `stepway`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['488'] = {
 		['name'] = 'Ferrari 488 Spider',
@@ -469,7 +469,7 @@ QBShared.Vehicles = {
 		['price'] = 10800,
 		['category'] = 'custom',
 		['hash'] = `488`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['f430s'] = {
 		['name'] = 'Ferrari F430 Scuderia',
@@ -478,7 +478,7 @@ QBShared.Vehicles = {
 		['price'] = 14500,
 		['category'] = 'custom',
 		['hash'] = `f430s`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['f812'] = {
 		['name'] = '2018 Ferrari 812 Superfast',
@@ -487,7 +487,7 @@ QBShared.Vehicles = {
 		['price'] = 5500,
 		['category'] = 'custom',
 		['hash'] = `f812`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fct'] = {
 		['name'] = '2015 Ferrari California T',
@@ -496,7 +496,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `fct`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fxxk'] = {
 		['name'] = 'Ferrari FXX-K Hybrid Hypercar',
@@ -505,7 +505,7 @@ QBShared.Vehicles = {
 		['price'] = 8500,
 		['category'] = 'custom',
 		['hash'] = `fxxk`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['laferrari'] = {
 		['name'] = '2015 Ferrari LaFerrari',
@@ -514,7 +514,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `laferrari`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['mig'] = {
 		['name'] = 'Ferrari Enzo',
@@ -523,7 +523,7 @@ QBShared.Vehicles = {
 		['price'] = 6500,
 		['category'] = 'custom',
 		['hash'] = `mig`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFe458i1'] = {
 		['name'] = '458 Italia',
@@ -532,7 +532,7 @@ QBShared.Vehicles = {
 		['price'] = 7500,
 		['category'] = 'custom',
 		['hash'] = `yFe458i1`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFe458i2'] = {
 		['name'] = '458 Speciale',
@@ -541,7 +541,7 @@ QBShared.Vehicles = {
 		['price'] = 8000,
 		['category'] = 'custom',
 		['hash'] = `yFe458i2`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFe458s1'] = {
 		['name'] = '458 Spider',
@@ -550,7 +550,7 @@ QBShared.Vehicles = {
 		['price'] = 14000,
 		['category'] = 'custom',
 		['hash'] = `yFe458s1`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFe458s2'] = {
 		['name'] = '458 Speciale Aperta',
@@ -559,7 +559,7 @@ QBShared.Vehicles = {
 		['price'] = 5000,
 		['category'] = 'custom',
 		['hash'] = `yFe458s2`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFeF12A'] = {
 		['name'] = 'Ferrari F60 America',
@@ -568,7 +568,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'custom',
 		['hash'] = `yFeF12A`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yFeF12T'] = {
 		['name'] = 'Ferrari F12 TRS Roadster',
@@ -577,7 +577,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'custom',
 		['hash'] = `yFeF12T`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['f150'] = {
 		['name'] = '2012 Ford F150 SVT Raptor R',
@@ -586,7 +586,7 @@ QBShared.Vehicles = {
 		['price'] = 130000,
 		['category'] = 'custom',
 		['hash'] = `f150`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fgt'] = {
 		['name'] = '2005 Ford GT',
@@ -595,7 +595,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'custom',
 		['hash'] = `fgt`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gt17'] = {
 		['name'] = '2017 Ford GT',
@@ -604,7 +604,7 @@ QBShared.Vehicles = {
 		['price'] = 4000,
 		['category'] = 'custom',
 		['hash'] = `gt17`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['raptor2017'] = {
 		['name'] = '2017 Ford Raptor',
@@ -613,7 +613,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `raptor2017`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['wildtrak'] = {
 		['name'] = '2021 Ford Bronco Wildtrak',
@@ -622,7 +622,7 @@ QBShared.Vehicles = {
 		['price'] = 60000,
 		['category'] = 'custom',
 		['hash'] = `wildtrak`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['honcrx91'] = {
 		['name'] = 'Honda CRX SiR 1991',
@@ -631,7 +631,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `honcrx91`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['na1'] = {
 		['name'] = '1992 Honda NSX-R (NA1)',
@@ -640,7 +640,7 @@ QBShared.Vehicles = {
 		['price'] = 70000,
 		['category'] = 'custom',
 		['hash'] = `na1`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['ap2'] = {
 		['name'] = 'Honda S2000 AP2',
@@ -649,7 +649,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `ap2`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fk8'] = {
 		['name'] = '2018 Honda Civic Type-R (FK8)',
@@ -658,7 +658,7 @@ QBShared.Vehicles = {
 		['price'] = 60000,
 		['category'] = 'custom',
 		['hash'] = `fk8`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['it18'] = {
 		['name'] = '2017 Italdesign Zerouno',
@@ -667,7 +667,7 @@ QBShared.Vehicles = {
 		['price'] = 17000,
 		['category'] = 'custom',
 		['hash'] = `it18`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fpacehm'] = {
 		['name'] = 'Jaguar F-pace 2017 Hamann Edition',
@@ -676,7 +676,7 @@ QBShared.Vehicles = {
 		['price'] = 50000,
 		['category'] = 'custom',
 		['hash'] = `fpacehm`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['jeep2012'] = {
 		['name'] = '2012 Jeep Wrangler',
@@ -685,7 +685,7 @@ QBShared.Vehicles = {
 		['price'] = 47500,
 		['category'] = 'custom',
 		['hash'] = `jeep2012`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['jeepreneg'] = {
 		['name'] = 'Jeep Renegade',
@@ -694,7 +694,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `jeepreneg`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['srt8'] = {
 		['name'] = '2015 Jeep SRT-8',
@@ -703,7 +703,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `srt8`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['trhawk'] = {
 		['name'] = '2018 Jeep Grand Cherokee',
@@ -712,7 +712,7 @@ QBShared.Vehicles = {
 		['price'] = 16000,
 		['category'] = 'custom',
 		['hash'] = `trhawk`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['agerars'] = {
 		['name'] = '2017 Koenigsegg Agera RS',
@@ -721,7 +721,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `agerars`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['regera'] = {
 		['name'] = 'Koenigsegg Regera',
@@ -730,7 +730,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `regera`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['huracanst'] = {
 		['name'] = 'Lamborghini Huracan Super Trofeo',
@@ -739,7 +739,7 @@ QBShared.Vehicles = {
 		['price'] = 29000,
 		['category'] = 'custom',
 		['hash'] = `huracanst`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['lambose'] = {
 		['name'] = 'Lamborghini Sesto Elemento',
@@ -748,7 +748,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `lambose`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['lp670sv'] = {
 		['name'] = '2009 Lamborghini Murcielago LP 670-4 SV',
@@ -757,7 +757,7 @@ QBShared.Vehicles = {
 		['price'] = 25000,
 		['category'] = 'custom',
 		['hash'] = `lp670sv`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['lp700r'] = {
 		['name'] = '2013 Lamborghini Aventador LP700-4 Roadster',
@@ -766,7 +766,7 @@ QBShared.Vehicles = {
 		['price'] = 32000,
 		['category'] = 'custom',
 		['hash'] = `lp700r`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['svj63'] = {
 		['name'] = 'Lamborghini Aventador SVJ',
@@ -775,7 +775,7 @@ QBShared.Vehicles = {
 		['price'] = 62000,
 		['category'] = 'custom',
 		['hash'] = `svj63`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['urus'] = {
 		['name'] = 'Lamborghini Urus',
@@ -784,7 +784,7 @@ QBShared.Vehicles = {
 		['price'] = 85000,
 		['category'] = 'custom',
 		['hash'] = `urus`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['veneno'] = {
 		['name'] = 'Lamborghini Veneno',
@@ -793,7 +793,7 @@ QBShared.Vehicles = {
 		['price'] = 155000,
 		['category'] = 'custom',
 		['hash'] = `veneno`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gs350'] = {
 		['name'] = 'Lexus GS 350',
@@ -802,7 +802,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'custom',
 		['hash'] = `gs350`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['is350mod'] = {
 		['name'] = '2014 Lexus IS 350',
@@ -811,7 +811,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `is350mod`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rcf'] = {
 		['name'] = '2015 Lexus RCF',
@@ -820,7 +820,7 @@ QBShared.Vehicles = {
 		['price'] = 12800,
 		['category'] = 'custom',
 		['hash'] = `rcf`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['lrrr'] = {
 		['name'] = '1973 Land Rover Range Rover',
@@ -829,7 +829,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `lrrr`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['esprit02'] = {
 		['name'] = '2002 Lotus Esprit V8',
@@ -838,7 +838,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `esprit02`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['regalia'] = {
 		['name'] = 'Quartz Regalia 723',
@@ -847,7 +847,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'custom',
 		['hash'] = `regalia`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['levante'] = {
 		['name'] = 'Maserati Levante',
@@ -856,7 +856,7 @@ QBShared.Vehicles = {
 		['price'] = 75000,
 		['category'] = 'custom',
 		['hash'] = `levante`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['84rx7k'] = {
 		['name'] = '1984 Mazda RX-7 Stanced Version',
@@ -865,7 +865,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `84rx7k`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['dragfd'] = {
 		['name'] = '2002 Mazda RX-7 FD Drag',
@@ -874,7 +874,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'custom',
 		['hash'] = `dragfd`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fc3s'] = {
 		['name'] = 'Mazda RX7 FC3S',
@@ -883,7 +883,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `fc3s`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['majfd'] = {
 		['name'] = 'Mazda RX-7 FD',
@@ -892,7 +892,7 @@ QBShared.Vehicles = {
 		['price'] = 16000,
 		['category'] = 'custom',
 		['hash'] = `majfd`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['miata3'] = {
 		['name'] = '1989 Mazda Miata NA',
@@ -901,7 +901,7 @@ QBShared.Vehicles = {
 		['price'] = 6500,
 		['category'] = 'custom',
 		['hash'] = `miata3`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['na6'] = {
 		['name'] = 'Mazda MX-5 Miata (NA6C)',
@@ -910,7 +910,7 @@ QBShared.Vehicles = {
 		['price'] = 8500,
 		['category'] = 'custom',
 		['hash'] = `na6`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['650s'] = {
 		['name'] = 'McLaren 650S Coupe',
@@ -919,7 +919,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `650s`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['675lt'] = {
 		['name'] = '2016 McLaren 675LT Coupe',
@@ -928,7 +928,7 @@ QBShared.Vehicles = {
 		['price'] = 120000,
 		['category'] = 'custom',
 		['hash'] = `675lt`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['720s'] = {
 		['name'] = '2017 McLaren 720S',
@@ -937,7 +937,7 @@ QBShared.Vehicles = {
 		['price'] = 8000,
 		['category'] = 'custom',
 		['hash'] = `720s`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gtr96'] = {
 		['name'] = '1996 McLaren F1 GTR',
@@ -946,7 +946,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `gtr96`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['mcst'] = {
 		['name'] = '2020 McLaren Speedtail',
@@ -955,7 +955,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `mcst`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['mp412c'] = {
 		['name'] = 'McLaren MP4-12C',
@@ -964,7 +964,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `mp412c`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['senna'] = {
 		['name'] = '2019 McLaren Senna',
@@ -973,7 +973,7 @@ QBShared.Vehicles = {
 		['price'] = 210000,
 		['category'] = 'custom',
 		['hash'] = `senna`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['amggtrr20'] = {
 		['name'] = '2020 Mercedes-Benz AMG GT-R Roadster',
@@ -982,7 +982,7 @@ QBShared.Vehicles = {
 		['price'] = 60000,
 		['category'] = 'custom',
 		['hash'] = `amggtrr20`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['c6320'] = {
 		['name'] = '2020 Mercedes-AMG C63s',
@@ -991,7 +991,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'custom',
 		['hash'] = `c6320`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['G65'] = {
 		['name'] = '2013 Mercedes-Benz G65 AMG',
@@ -1000,7 +1000,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `G65`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['e400'] = {
 		['name'] = '2019 Mercedes-Benz E400 Coupe 4matic (C238)',
@@ -1009,7 +1009,7 @@ QBShared.Vehicles = {
 		['price'] = 32000,
 		['category'] = 'custom',
 		['hash'] = `e400`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gl63'] = {
 		['name'] = 'Mercedes-Benz GL63 AMG',
@@ -1018,7 +1018,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `gl63`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['mbc63'] = {
 		['name'] = '2012 Mercedes-Benz C63 AMG Coupe Black Series',
@@ -1027,7 +1027,7 @@ QBShared.Vehicles = {
 		['price'] = 42000,
 		['category'] = 'custom',
 		['hash'] = `mbc63`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['s500w222'] = {
 		['name'] = '2014 Mercedes-Benz S500 W222',
@@ -1036,7 +1036,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `s500w222`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['sl500'] = {
 		['name'] = '1995 Mercedes-Benz SL500',
@@ -1045,7 +1045,7 @@ QBShared.Vehicles = {
 		['price'] = 38000,
 		['category'] = 'custom',
 		['hash'] = `sl500`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['v250'] = {
 		['name'] = 'Mercedes-Benz V-class 250 Bluetec LWB',
@@ -1054,7 +1054,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `v250`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cp9a'] = {
 		['name'] = 'Mitsubishi Lancer Evo VI T.M.E (CP9A)',
@@ -1063,7 +1063,7 @@ QBShared.Vehicles = {
 		['price'] = 32000,
 		['category'] = 'custom',
 		['hash'] = `cp9a`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['fto'] = {
 		['name'] = 'Mitsubishi FTO GP Version-R',
@@ -1072,7 +1072,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `fto`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['180sx'] = {
 		['name'] = 'Nissan 180SX Type-X',
@@ -1081,7 +1081,7 @@ QBShared.Vehicles = {
 		['price'] = 95000,
 		['category'] = 'custom',
 		['hash'] = `180sx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gtr'] = {
 		['name'] = '2017 Nissan GTR',
@@ -1090,7 +1090,7 @@ QBShared.Vehicles = {
 		['price'] = 125000,
 		['category'] = 'custom',
 		['hash'] = `gtr`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gtrc'] = {
 		['name'] = '2017 R35 Nissan GTR Convertible',
@@ -1099,7 +1099,7 @@ QBShared.Vehicles = {
 		['price'] = 36000,
 		['category'] = 'custom',
 		['hash'] = `gtrc`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['maj350'] = {
 		['name'] = 'Nissan Fairlady Z Z33',
@@ -1108,7 +1108,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `maj350`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['nis15'] = {
 		['name'] = 'Nissan Silvia S15 Spec-R',
@@ -1117,7 +1117,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `nis15`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['nissantitan17'] = {
 		['name'] = '2017 Nissan Titan Warrior',
@@ -1126,7 +1126,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'custom',
 		['hash'] = `nissantitan17`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['ns350'] = {
 		['name'] = 'Nissan 350z Stardast',
@@ -1135,7 +1135,7 @@ QBShared.Vehicles = {
 		['price'] = 60000,
 		['category'] = 'custom',
 		['hash'] = `ns350`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['nzp'] = {
 		['name'] = 'Nissan 370z Pandem',
@@ -1144,7 +1144,7 @@ QBShared.Vehicles = {
 		['price'] = 70000,
 		['category'] = 'custom',
 		['hash'] = `nzp`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['s14'] = {
 		['name'] = '1998 Nissan Silvia K',
@@ -1153,7 +1153,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `s14`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['Safari97'] = {
 		['name'] = '1997 Nissan Patrol Super Safari Y60',
@@ -1162,7 +1162,7 @@ QBShared.Vehicles = {
 		['price'] = 12000,
 		['category'] = 'custom',
 		['hash'] = `Safari97`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['skyline'] = {
 		['name'] = 'Nissan Skyline GT-R (BNR34)',
@@ -1171,7 +1171,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'custom',
 		['hash'] = `skyline`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['z32'] = {
 		['name'] = 'Nissan 300ZX Z32',
@@ -1180,7 +1180,7 @@ QBShared.Vehicles = {
 		['price'] = 75000,
 		['category'] = 'custom',
 		['hash'] = `z32`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['maj935'] = {
 		['name'] = '1978 Porsche 935 Moby Dick',
@@ -1189,7 +1189,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `maj935`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['pcs18'] = {
 		['name'] = '2018 Porsche Cayenne S',
@@ -1198,7 +1198,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `pcs18`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['718caymans'] = {
 		['name'] = 'Porsche 718 Cayman S',
@@ -1207,7 +1207,7 @@ QBShared.Vehicles = {
 		['price'] = 80000,
 		['category'] = 'custom',
 		['hash'] = `718caymans`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cgt'] = {
 		['name'] = '2003 Porsche Carrera GT (980)',
@@ -1216,7 +1216,7 @@ QBShared.Vehicles = {
 		['price'] = 38500,
 		['category'] = 'custom',
 		['hash'] = `cgt`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['pm19'] = {
 		['name'] = '2019 Porsche Macan Turbo',
@@ -1225,7 +1225,7 @@ QBShared.Vehicles = {
 		['price'] = 55000,
 		['category'] = 'custom',
 		['hash'] = `pm19`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['taycan'] = {
 		['name'] = '2020 Porsche Taycan Turbo S',
@@ -1234,7 +1234,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `taycan`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yPG205t16B'] = {
 		['name'] = 'Peugeot 205 Turbo 16',
@@ -1243,7 +1243,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `yPG205t16B`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['yPG205t16A'] = {
 		['name'] = 'Peugeot 205 Rally',
@@ -1252,7 +1252,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `yPG205t16A`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['twingo'] = {
 		['name'] = 'Renault Twingo I',
@@ -1261,7 +1261,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `twingo`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rrevoque'] = {
 		['name'] = 'Range Rover Evoque',
@@ -1270,7 +1270,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `rrevoque`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rrst'] = {
 		['name'] = 'Range Rover Vogue Startech',
@@ -1279,7 +1279,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `rrst`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rsvr16'] = {
 		['name'] = '2016 Range Rover Sport SVR',
@@ -1288,7 +1288,7 @@ QBShared.Vehicles = {
 		['price'] = 135000,
 		['category'] = 'custom',
 		['hash'] = `rsvr16`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['dawnonyx'] = {
 		['name'] = '2016 Rolls-Royce Dawn Onyx',
@@ -1297,7 +1297,7 @@ QBShared.Vehicles = {
 		['price'] = 38000,
 		['category'] = 'custom',
 		['hash'] = `dawnonyx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['wraith'] = {
 		['name'] = 'Rolls-Royce Wraith',
@@ -1306,7 +1306,7 @@ QBShared.Vehicles = {
 		['price'] = 30000,
 		['category'] = 'custom',
 		['hash'] = `wraith`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rculi'] = {
 		['name'] = 'Rolls Royce Cullinan',
@@ -1315,7 +1315,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `rculi`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['rrphantom'] = {
 		['name'] = '2018 Rolls-Royce Phantom VIII',
@@ -1324,7 +1324,7 @@ QBShared.Vehicles = {
 		['price'] = 70000,
 		['category'] = 'custom',
 		['hash'] = `rrphantom`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['subisti08'] = {
 		['name'] = '2008 Subaru WRX STi',
@@ -1333,7 +1333,7 @@ QBShared.Vehicles = {
 		['price'] = 65000,
 		['category'] = 'custom',
 		['hash'] = `subisti08`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['subwrx'] = {
 		['name'] = '2004 Subaru Impreza WRX STI',
@@ -1342,7 +1342,7 @@ QBShared.Vehicles = {
 		['price'] = 130000,
 		['category'] = 'custom',
 		['hash'] = `subwrx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['svx'] = {
 		['name'] = '1996 Subaru Alcyone SVX',
@@ -1351,7 +1351,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `svx`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['gsxr19'] = {
 		['name'] = '2019 Suzuki GSX-R1000R',
@@ -1360,7 +1360,7 @@ QBShared.Vehicles = {
 		['price'] = 28000,
 		['category'] = 'custom',
 		['hash'] = `gsxr19`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['katana'] = {
 		['name'] = '2019 Suzuki Katana',
@@ -1369,7 +1369,7 @@ QBShared.Vehicles = {
 		['price'] = 35000,
 		['category'] = 'custom',
 		['hash'] = `katana`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['tr22'] = {
 		['name'] = '2020 Tesla Roadster',
@@ -1378,7 +1378,7 @@ QBShared.Vehicles = {
 		['price'] = 45000,
 		['category'] = 'custom',
 		['hash'] = `tr22`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['p90d'] = {
 		['name'] = 'Tesla Model X Performance',
@@ -1387,7 +1387,7 @@ QBShared.Vehicles = {
 		['price'] = 50000,
 		['category'] = 'custom',
 		['hash'] = `p90d`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['models'] = {
 		['name'] = '2016 Tesla Model S P90D',
@@ -1396,7 +1396,7 @@ QBShared.Vehicles = {
 		['price'] = 39500,
 		['category'] = 'custom',
 		['hash'] = `models`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['tmodel'] = {
 		['name'] = '2018 Tesla Model 3',
@@ -1405,7 +1405,7 @@ QBShared.Vehicles = {
 		['price'] = 15000,
 		['category'] = 'custom',
 		['hash'] = `tmodel`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['teslax'] = {
 		['name'] = '2016 Tesla Model X P90D',
@@ -1414,7 +1414,7 @@ QBShared.Vehicles = {
 		['price'] = 50000,
 		['category'] = 'custom',
 		['hash'] = `teslax`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['teslapd'] = {
 		['name'] = '2017 Tesla Model S',
@@ -1423,7 +1423,7 @@ QBShared.Vehicles = {
 		['price'] = 40000,
 		['category'] = 'custom',
 		['hash'] = `teslapd`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['cam8tun'] = {
 		['name'] = '2018 Toyota Camry XSE',
@@ -1432,7 +1432,7 @@ QBShared.Vehicles = {
 		['price'] = 70000,
 		['category'] = 'custom',
 		['hash'] = `cam8tun`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['vxr'] = {
 		['name'] = '2016 Toyota Land Cruiser VXR',
@@ -1441,7 +1441,7 @@ QBShared.Vehicles = {
 		['price'] = 900000,
 		['category'] = 'custom',
 		['hash'] = `vxr`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['toysupmk4'] = {
 		['name'] = '1998 Toyota Supra Turbo (A80)',
@@ -1450,7 +1450,7 @@ QBShared.Vehicles = {
 		['price'] = 255000,
 		['category'] = 'custom',
 		['hash'] = `toysupmk4`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['mk2100'] = {
 		['name'] = 'Toyota Mark II JZX100',
@@ -1459,7 +1459,7 @@ QBShared.Vehicles = {
 		['price'] = 90000,
 		['category'] = 'custom',
 		['hash'] = `mk2100`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['golfgti7'] = {
 		['name'] = '2015 Volkswagen Golf GTI MK7',
@@ -1468,7 +1468,7 @@ QBShared.Vehicles = {
 		['price'] = 375000,
 		['category'] = 'custom',
 		['hash'] = `golfgti7`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['passat'] = {
 		['name'] = '2016 Volkswagen Passat B8',
@@ -1477,7 +1477,7 @@ QBShared.Vehicles = {
 		['price'] = 375000,
 		['category'] = 'custom',
 		['hash'] = `passat`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['vwr'] = {
 		['name'] = 'Volkswagen Scirocco R 2011',
@@ -1486,7 +1486,7 @@ QBShared.Vehicles = {
 		['price'] = 375000,
 		['category'] = 'custom',
 		['hash'] = `vwr`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['amarok'] = {
 		['name'] = '2018 Volkswagen Amarok V6',
@@ -1495,7 +1495,7 @@ QBShared.Vehicles = {
 		['price'] = 375000,
 		['category'] = 'custom',
 		['hash'] = `amarok`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['xc90'] = {
 		['name'] = 'Volvo XC90 T8',
@@ -1504,7 +1504,7 @@ QBShared.Vehicles = {
 		['price'] = 425000,
 		['category'] = 'custom',
 		['hash'] = `xc90`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['wmfenyr'] = {
 		['name'] = 'W-Motors Fenyr Supersport',
@@ -1513,7 +1513,7 @@ QBShared.Vehicles = {
 		['price'] = 220000,
 		['category'] = 'custom',
 		['hash'] = `wmfenyr`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	['lykan'] = {
 		['name'] = 'W-Motors Lykan HyperSport',
@@ -1522,7 +1522,7 @@ QBShared.Vehicles = {
 		['price'] = 185000,
 		['category'] = 'custom',
 		['hash'] = `lykan`,
-		['shop'] = 'luxury',
+		['shop'] = 'pdm',
 	},
 	--- Compacts
 	['asbo'] = {
